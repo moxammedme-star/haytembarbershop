@@ -1,0 +1,491 @@
+{
+  "businessInfo": {
+    "name": "HAYTEM BARBERSHOP",
+    "phone": "+213 675 16 11 87",
+    "email": "",
+    "whatsapp": "+213 675 16 11 87",
+    "instagram": "https://www.instagram.com/haytem_br_1",
+    "facebook": "https://www.facebook.com/haytem.mehazzem.39",
+    "tiktok": "https://www.tiktok.com/@haytemmehazzem",
+    "googleMaps": "https://maps.app.goo.gl/E11tAiMQUmmpSEc56",
+    "biography": {
+      "fr": "",
+      "ar": "",
+      "en": ""
+    },
+    "story": {
+      "fr": "",
+      "ar": "",
+      "en": ""
+    },
+    "mission": {
+      "fr": "",
+      "ar": "",
+      "en": ""
+    },
+    "vision": {
+      "fr": "",
+      "ar": "",
+      "en": ""
+    },
+    "logoUrl": "",
+    "promoBanner": {
+      "fr": "",
+      "ar": "",
+      "en": ""
+    },
+    "policies": {
+      "fr": "",
+      "ar": "",
+      "en": ""
+    }
+  },
+  "workingHours": [
+    {
+      "day": "Lundi",
+      "dayKey": "monday",
+      "open": "09:00",
+      "close": "21:00",
+      "isClosed": false
+    },
+    {
+      "day": "Mardi",
+      "dayKey": "tuesday",
+      "open": "09:00",
+      "close": "21:00",
+      "isClosed": false
+    },
+    {
+      "day": "Mercredi",
+      "dayKey": "wednesday",
+      "open": "09:00",
+      "close": "21:00",
+      "isClosed": false
+    },
+    {
+      "day": "Jeudi",
+      "dayKey": "thuesday",
+      "open": "09:00",
+      "close": "21:00",
+      "isClosed": false
+    },
+    {
+      "day": "Vendredi",
+      "dayKey": "friday",
+      "open": "09:00",
+      "close": "21:00",
+      "isClosed": false
+    },
+    {
+      "day": "Samedi",
+      "dayKey": "saturday",
+      "open": "09:00",
+      "close": "21:00",
+      "isClosed": false
+    },
+    {
+      "day": "Dimanche",
+      "dayKey": "sunday",
+      "open": "09:00",
+      "close": "21:00",
+      "isClosed": false
+    }
+  ],
+  "services": [
+    {
+      "id": "srv-1",
+      "title": {
+        "fr": "Coupe de Cheveux Signature",
+        "ar": "قصة شعر سيجنتشر",
+        "en": "Signature Haircut"
+      },
+      "description": {
+        "fr": "Coupe sur mesure adaptée à la forme du visage et rituel shampoing.",
+        "ar": "قصة شعر مخصصة تناسب شكل الوجه مع غسيل الشعر.",
+        "en": "Custom haircut adapted to face shape and shampoo ritual."
+      },
+      "price": null,
+      "duration": 30,
+      "category": "Haircut",
+      "availability": true
+    },
+    {
+      "id": "srv-2",
+      "title": {
+        "fr": "Taille de Barbe & Rasage Traditionnel",
+        "ar": "حلاقة ذقن تقليدية",
+        "en": "Beard Trim & Hot Towel Shave"
+      },
+      "description": {
+        "fr": "Taille de barbe de précision, serviette chaude et huile hydratante.",
+        "ar": "تحديد دقيق للحية مع منشفة ساخنة وزيت مرطب.",
+        "en": "Precision beard trim, hot towel, and moisturizing oil."
+      },
+      "price": null,
+      "duration": 30,
+      "category": "Beard",
+      "availability": true
+    },
+    {
+      "id": "srv-3",
+      "title": {
+        "fr": "Formule Intégrale (Cheveux + Barbe)",
+        "ar": "الباقة الكاملة (شعر + ذقن)",
+        "en": "Full Combo (Hair + Beard)"
+      },
+      "description": {
+        "fr": "La formule ultime alliant coupe de cheveux premium et soin de barbe traditionnel.",
+        "ar": "الباقة المثالية التي تجمع بين قصة الشعر الفاخرة والعناية التقليدية باللحية.",
+        "en": "The ultimate formula combining premium haircut and traditional beard care."
+      },
+      "price": null,
+      "duration": 60,
+      "category": "Special",
+      "availability": true
+    },
+    {
+      "id": "srv-4",
+      "title": {
+        "fr": "Coloration Premium",
+        "ar": "صبغ شعر فاخر",
+        "en": "Premium Hair Coloring"
+      },
+      "description": {
+        "fr": "Technique de coloration moderne pour couvrir les cheveux blancs ou apporter une nuance.",
+        "ar": "تقنية صبغ حديثة لتغطية الشعر الأبيض أو إضفاء لون مميز.",
+        "en": "Modern coloring technique to cover white hair or add a unique tone."
+      },
+      "price": null,
+      "duration": 45,
+      "category": "Coloring",
+      "availability": true
+    },
+    {
+      "id": "srv-5",
+      "title": {
+        "fr": "Rituel Soin du Visage Purifiant",
+        "ar": "عناية فائقة بالبشرة والوجه",
+        "en": "Purifying Facial Care Ritual"
+      },
+      "description": {
+        "fr": "Nettoyage en profondeur du visage, masque exfoliant et massage relaxant.",
+        "ar": "تنظيف عميق للوجه مع قناع مقشر ومساج مريح للبشرة.",
+        "en": "Deep facial cleansing, exfoliating mask, and relaxing facial massage."
+      },
+      "price": null,
+      "duration": 25,
+      "category": "Special",
+      "availability": true
+    }
+  ],
+  "hairstyles": [
+    {
+      "id": "hair-buzz",
+      "name": {
+        "fr": "Buzz Cut",
+        "ar": "بز كات (قصة عسكرية)",
+        "en": "Buzz Cut"
+      },
+      "description": {
+        "fr": "Une coupe très courte, uniforme et ultra-moderne, facile à entretenir.",
+        "ar": "قصة شعر قصيرة جداً، متناسقة وسهلة العناية ومثيرة للاهتمام.",
+        "en": "A very short, uniform, and ultra-modern cut, extremely easy to maintain."
+      },
+      "image": "https://images.unsplash.com/photo-1605497746444-ac9dbd39f400?auto=format&fit=crop&q=80&w=600",
+      "video": "",
+      "price": 600,
+      "duration": 20,
+      "difficulty": 2,
+      "category": "Buzz Cut"
+    },
+    {
+      "id": "hair-crop",
+      "name": {
+        "fr": "French Crop",
+        "ar": "فرنش كروب",
+        "en": "French Crop"
+      },
+      "description": {
+        "fr": "Un dégradé court sur les côtés avec une frange courte texturée sur le dessus.",
+        "ar": "تدرج قصير على الجانبين مع غرة قصيرة محددة في الأعلى.",
+        "en": "A short fade on the sides with a textured short fringe on top."
+      },
+      "image": "https://images.unsplash.com/photo-1621605815971-fbc98d665033?auto=format&fit=crop&q=80&w=600",
+      "video": "",
+      "price": 800,
+      "duration": 30,
+      "difficulty": 3,
+      "category": "French Crop"
+    },
+    {
+      "id": "hair-pompadour",
+      "name": {
+        "fr": "Pompadour classique",
+        "ar": "بومبادور كلاسيكي",
+        "en": "Classic Pompadour"
+      },
+      "description": {
+        "fr": "Volume élégant rabattu vers l'arrière avec des côtés sculptés.",
+        "ar": "شعر كثيف ومصفف للخلف بأناقة مع جوانب منحوتة.",
+        "en": "Elegant volume swept backward with sculpted sides."
+      },
+      "image": "https://images.unsplash.com/photo-1599351431202-1e0f0137899a?auto=format&fit=crop&q=80&w=600",
+      "video": "",
+      "price": 1000,
+      "duration": 40,
+      "difficulty": 4,
+      "category": "Pompadour"
+    },
+    {
+      "id": "hair-lowfade",
+      "name": {
+        "fr": "Low Fade & Slick Back",
+        "ar": "لو فيد مع تصفيف للخلف",
+        "en": "Low Fade & Slick Back"
+      },
+      "description": {
+        "fr": "Dégradé bas progressif avec cheveux gominés vers l'arrière.",
+        "ar": "تدرج منخفض تدريجي مع شعر مسرح بالكامل للخلف.",
+        "en": "Progressive low fade with hair slicked backward."
+      },
+      "image": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&q=80&w=600",
+      "video": "",
+      "price": 1000,
+      "duration": 35,
+      "difficulty": 4,
+      "category": "Low Fade"
+    },
+    {
+      "id": "hair-midfade",
+      "name": {
+        "fr": "Mid Fade (Dégradé Moyen)",
+        "ar": "ميد فيد (تدرج متوسط)",
+        "en": "Mid Fade"
+      },
+      "description": {
+        "fr": "Dégradé moderne équilibré commençant à mi-hauteur des tempes.",
+        "ar": "تدرج حديث متوازن يبدأ من منتصف الصدغين.",
+        "en": "A balanced modern fade starting at the midpoint of the temples."
+      },
+      "image": "https://images.unsplash.com/photo-1512864084360-7c0c4d0a0845?auto=format&fit=crop&q=80&w=600",
+      "video": "",
+      "price": 800,
+      "duration": 30,
+      "difficulty": 3,
+      "category": "Mid Fade"
+    },
+    {
+      "id": "hair-skinfade",
+      "name": {
+        "fr": "Skin Fade (Dégradé à blanc)",
+        "ar": "سكين فيد (تدرج على الجلد)",
+        "en": "Skin Fade"
+      },
+      "description": {
+        "fr": "Dégradé ultra-propre se fondant directement sur la peau.",
+        "ar": "تدرج نظيف للغاية يتلاشى تدريجياً حتى الجلد.",
+        "en": "An ultra-clean fade blending seamlessly into the skin."
+      },
+      "image": "https://images.unsplash.com/photo-1622286342621-4bd786c2447c?auto=format&fit=crop&q=80&w=600",
+      "video": "",
+      "price": 1200,
+      "duration": 35,
+      "difficulty": 4,
+      "category": "Skin Fade"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "url": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&q=80&w=600",
+      "type": "image",
+      "category": "Coupe",
+      "description": {
+        "fr": "Dégradé à blanc d'une précision millimétrée.",
+        "ar": "تدرج نظيف للغاية بدقة متناهية.",
+        "en": "Precision skin fade with perfect contours."
+      }
+    },
+    {
+      "id": "gal-2",
+      "url": "https://images.unsplash.com/photo-1621605815971-fbc98d665033?auto=format&fit=crop&q=80&w=600",
+      "type": "image",
+      "category": "Barbe",
+      "description": {
+        "fr": "Taille de barbe traditionnelle et soins hydratants.",
+        "ar": "تحديد لحية تقليدي مع العناية والترطيب.",
+        "en": "Traditional beard grooming with hot towel oil treatment."
+      }
+    },
+    {
+      "id": "gal-3",
+      "url": "https://images.unsplash.com/photo-1622286342621-4bd786c2447c?auto=format&fit=crop&q=80&w=600",
+      "type": "image",
+      "category": "Salon",
+      "description": {
+        "fr": "Atmosphère épurée et fauteuils en cuir confortables.",
+        "ar": "أجواء فاخرة ومريحة داخل الصالون.",
+        "en": "Luxurious club environment and premium leather seats."
+      }
+    },
+    {
+      "id": "gal-4",
+      "url": "https://images.unsplash.com/photo-1512864084360-7c0c4d0a0845?auto=format&fit=crop&q=80&w=600",
+      "type": "image",
+      "category": "Style",
+      "description": {
+        "fr": "Coiffage de haute tenue et conseils capillaires.",
+        "ar": "تصفيف شعر احترافي وتوجيهات العناية.",
+        "en": "High-standard hairstyling and hair wellness tips."
+      }
+    }
+  ],
+  "bookings": [],
+  "stats": {
+    "totalVisits": 28,
+    "totalBookings": 0,
+    "totalRevenue": 0,
+    "visitsHistory": [
+      {
+        "date": "2026-07-19",
+        "count": 28
+      }
+    ],
+    "bookingsHistory": [],
+    "popularServices": []
+  },
+  "dictionary": {
+    "nav_about": {
+      "fr": "HAYTEM",
+      "ar": "عن هيثم",
+      "en": "HAYTEM"
+    },
+    "nav_services": {
+      "fr": "PRESTATIONS",
+      "ar": "الخدمات",
+      "en": "SERVICES"
+    },
+    "nav_hairstyles": {
+      "fr": "CATALOGUE",
+      "ar": "كتالوج القصات",
+      "en": "CATALOGUE"
+    },
+    "nav_gallery": {
+      "fr": "GALERIE",
+      "ar": "المعرض",
+      "en": "GALLERY"
+    },
+    "nav_contact": {
+      "fr": "ACCÈS",
+      "ar": "الموقع",
+      "en": "LOCATION"
+    },
+    "brand_story": {
+      "fr": "PHILOSOPHIE DE MARQUE",
+      "ar": "فلسفة العلامة التجارية",
+      "en": "BRAND PHILOSOPHY"
+    },
+    "menu_pricing": {
+      "fr": "TARIFS DES SOINS",
+      "ar": "أسعار العناية والخدمات",
+      "en": "CARE RATES"
+    },
+    "haircut_menu": {
+      "fr": "HAIRSTYLES CATALOGUE",
+      "ar": "كتالوج قصات الشعر",
+      "en": "HAIRSTYLES CATALOGUE"
+    },
+    "recent_looks": {
+      "fr": "VISUAL MEDIA",
+      "ar": "المعرض المرئي",
+      "en": "VISUAL MEDIA"
+    },
+    "business_hours": {
+      "fr": "DÉTAILS D'ACCÈS",
+      "ar": "تفاصيل الوصول",
+      "en": "ACCESS DETAILS"
+    },
+    "closed": {
+      "fr": "FERMÉ",
+      "ar": "مغلق",
+      "en": "CLOSED"
+    },
+    "explore_hairstyles": {
+      "fr": "CATALOGUE DE STYLES",
+      "ar": "كتالوج التصفيفات",
+      "en": "STYLES CATALOGUE"
+    },
+    "hero_title": {
+      "fr": "L'ART DE LA COIFFURE MASCULINE DE LUXE",
+      "ar": "فن الحلاقة الرجالية الفاخرة",
+      "en": "THE ART OF LUXURY MASCULINE GROOMING"
+    },
+    "hero_subtitle": {
+      "fr": "Vivez une expérience de coiffure inégalée chez Haytem Barbershop. Précision, élégance et raffinement pour l'homme moderne.",
+      "ar": "عش تجربة حلاقة لا مثيل لها لدى هيثم باربرشوب. دقة، أناقة، ورقي للرجل العصري.",
+      "en": "Experience an unparalleled grooming session at Haytem Barbershop. Precision, elegance, and refinement for the modern man."
+    },
+    "book_now": {
+      "fr": "Réserver maintenant",
+      "ar": "احجز الآن",
+      "en": "Book Now"
+    },
+    "explore_styles": {
+      "fr": "Explorer les coiffures",
+      "ar": "استكشف القصات",
+      "en": "Explore Hairstyles"
+    },
+    "popular_services_title": {
+      "fr": "Prestations d'Exception",
+      "ar": "خدمات مميزة",
+      "en": "Exceptional Services"
+    },
+    "popular_services_desc": {
+      "fr": "Chaque service est exécuté avec une attention méticuleuse portée aux moindres détails.",
+      "ar": "يتم تنفيذ كل خدمة بعناية فائقة واهتمام دقيق بأصغر التفاصيل.",
+      "en": "Each service is executed with meticulous attention to the smallest details."
+    },
+    "duration": {
+      "fr": "Durée",
+      "ar": "المدة",
+      "en": "Duration"
+    },
+    "price_on_request": {
+      "fr": "Tarif sur demande",
+      "ar": "السعر عند الطلب",
+      "en": "Price on request"
+    },
+    "about_us_title": {
+      "fr": "Notre Philosophie",
+      "ar": "فلسفتنا",
+      "en": "Our Philosophy"
+    },
+    "why_choose_us_title": {
+      "fr": "Pourquoi Nous Choisir",
+      "ar": "لماذا تختارنا",
+      "en": "Why Choose Us"
+    },
+    "gallery_title": {
+      "fr": "Galerie de Réalisations",
+      "ar": "معرض الأعمال",
+      "en": "Gallery of Creations"
+    },
+    "contact_title": {
+      "fr": "Prendre Contact",
+      "ar": "اتصل بنا",
+      "en": "Get In Touch"
+    },
+    "working_hours_title": {
+      "fr": "Horaires d'Ouverture",
+      "ar": "أوقات العمل",
+      "en": "Opening Hours"
+    },
+    "all_categories": {
+      "fr": "Toutes les catégories",
+      "ar": "جميع الفئات",
+      "en": "All Categories"
+    }
+  },
+  "users": [],
+  "notifications": []
+}

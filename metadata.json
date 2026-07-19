@@ -1,0 +1,6 @@
+{
+  "name": "Haytem Barbershop",
+  "description": "A premium luxury full-stack barber shop web application for Haytem Barbershop. Features a sub-one-minute reservation system, multi-language support (French, Arabic, English), an interactive AI Barber Assistant, and an advanced Admin Dashboard to manage services, hairstyles, media gallery, bookings, and live business configurations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
